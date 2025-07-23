@@ -98,9 +98,9 @@
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/VLMADev/Sirius-Themes"
+      "url": "https://github.com/VLMADev/siriusthemes"
     },
-    "homepage": "https://github.com/VLMADev/Sirius-Themes/blob/main/README.md"
+    "homepage": "https://github.com/VLMADev/siriusthemes/blob/master/README.md"
   },
   "icon": "Sirius.png"
 }
