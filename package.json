@@ -1,91 +1,106 @@
 {
-  "name": "dark-pro-no-blue",
-  "displayName": "Dark Pro No Blue",
-  "description": "Темная тема без синего цвета",
+  "name": "siriusthemes",
+  "displayName": "Sirius Themes",
+  "description": "",
   "version": "1.0.0",
-  "publisher": "VLMADev",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.102.0"
   },
-  "categories": ["Themes"],
-  "keywords": ["theme","dark","one dark","monokai","no blue","javascript","php","python","html","css"],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "one dark",
+    "monokai",
+    "no blue",
+    "javascript",
+    "php",
+    "python",
+    "html",
+    "css",
+    "js",
+    "json",
+    "phtml",
+    "popular"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Dark Pro Astral",
+        "label": "Sirius - Astral",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Astral.json"
+        "path": "./themes/Sirius-Astral.json"
       },
-	   {
-        "label": "Dark Pro Pulsar",
+      {
+        "label": "Sirius - Pulsar",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Pulsar.json"
+        "path": "./themes/Sirius-Pulsar.json"
       },
-	   {
-        "label": "Dark Pro Vortex",
+      {
+        "label": "Sirius - Vortex",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Vortex.json"
+        "path": "./themes/Sirius-Vortex.json"
       },
-	   {
-        "label": "Dark Pro Vibe",
+      {
+        "label": "Sirius - Vibe",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Vibe.json"
+        "path": "./themes/Sirius-Vibe.json"
       },
-	   {
-        "label": "Dark Pro Nebula",
+      {
+        "label": "Sirius - Nebula",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Nebula.json"
+        "path": "./themes/Sirius-Nebula.json"
       },
-	   {
-        "label": "Dark Pro Zenith",
+      {
+        "label": "Sirius - Zenith",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Zenith.json"
+        "path": "./themes/Sirius-Zenith.json"
       },
-	   {
-        "label": "Dark Pro Glow",
+      {
+        "label": "Sirius - Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Glow.json"
+        "path": "./themes/Sirius-Glow.json"
       },
-	   {
-        "label": "Dark Pro Vesper",
+      {
+        "label": "Sirius - Vesper",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Pro-Vesper.json"
-      }  	  
-    ],    
-	"configuration": {
-      "title": "Dark Pro No Blue",
+        "path": "./themes/Sirius-Vesper.json"
+      }
+    ],
+    "configuration": {
+      "title": "SiriusThemes",
       "properties": {
         "editor.fontFamily": {
           "type": "string",
           "default": "'Fira Code', 'JetBrains Mono', monospace",
-          "description": "Рекомендуемый шрифт с лигатурами для темы"
+          "description": "Recommended font with ligatures for the theme"
         },
         "editor.fontLigatures": {
           "type": "boolean",
           "default": true,
-          "description": "Включить лигатуры для операторов -> => и других"
+          "description": "Enter abbreviations for the operators -> and => and others."
         },
         "editor.fontSize": {
           "type": "integer",
           "default": 14,
-          "description": "Рекомендуемый размер шрифта"
+          "description": "Recommended font size"
         },
         "editor.lineHeight": {
           "type": "integer",
           "default": 24,
-          "description": "Рекомендуемая высота строки"
+          "description": "Recommended row height"
         }
       }
     },
-	
-  "activationEvents": ["onStartupFinished"],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/your-username/dark-pro-no-blue "
+    "activationEvents": [
+      "onStartupFinished"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/VLMADev/Sirius-Themes"
+    },
+    "homepage": "https://github.com/VLMADev/Sirius-Themes/blob/main/README.md"
   },
-  "bugs": {
-    "url": "https://github.com/your-username/dark-pro-no-blue/issues "
-  },
-  "homepage": "https://github.com/your-username/dark-pro-no-blue#readme"
-  }
+  "icon": "Sirius.png"
 }
