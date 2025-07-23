@@ -5,17 +5,24 @@
 ---
 
 ## 📌 Описание (Description)  
-**Sirius Theme** — это современная тема оформления для Visual Studio Code с акцентом на **минимализм, читаемость и стиль**. Поддерживает **тёмный режимы**, идеально подходит для разработчиков, которые ценят аккуратный интерфейс и комфорт при долгом кодировании.
-**Sirius Theme** is a modern Visual Studio Code theme with an emphasis on **minimalism, readability, and style**. Supports **Dark modes**, ideal for developers who appreciate a neat interface and comfort during long coding.
+
+- **Sirius Theme** — это современная тема оформления для Visual Studio Code с акцентом на **минимализм, читаемость и стиль**. Поддерживает **тёмный режимы**, идеально подходит для разработчиков, которые ценят аккуратный интерфейс и комфорт при долгом кодировании.
+
+>[EN]
+- **Sirius Theme** is a modern Visual Studio Code theme with an emphasis on **minimalism, readability, and style**. Supports **Dark modes**, ideal for developers who appreciate a neat interface and comfort during long coding.
+
 
 ---
 
 ## 🌟 Особенности  (Features)
 - **Совместимость**: Поддерживает популярные языки (JavaScript, TypeScript, Python, HTML/CSS, JSON и др.).  
-- **Compatibility**: Supports popular languages (JavaScript, TypeScript, Python, HTML/CSS, JSON, etc.).
-
 - **Цветовые акценты**: Сбалансированные палитры для синтаксиса, комментариев и ошибок.   
+
+>[EN]
+- **Compatibility**: Supports popular languages (JavaScript, TypeScript, Python, HTML/CSS, JSON, etc.).
 - **Color Accents**: Balanced palettes for syntax, comments, and errors.
+
+
 ---
 
 ## 📦 Установка  (Installation)
@@ -23,17 +30,23 @@
 1. Откройте [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.sirius-theme).  
 2. Нажмите **"Install"**.  
 
+>[EN]
 1. Open the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.sirius-theme ).  
 2. Press **"Install"**.
 
+
 ### Способ 2: Установка .vsix файла  (Method 2: Installation .vsix file)
 Если вы скачали `.vsix` файл:
-If you downloaded the `.vsix` file:
+>[EN] If you downloaded the `.vsix` file:
+
+
 ```bash
 code --install-extension sirius-theme-x.x.x.vsix
 ```
 - x.x.x. заменить на актуальную версию
-- x.x.x. replace with the current version
+> [EN] x.x.x. replace with the current version
+
+
 ---
 ## ⚙️ Настройки (Settings)
 
@@ -43,17 +56,20 @@ code --install-extension sirius-theme-x.x.x.vsix
 2. **Введите:** Preferences: Color Theme.
 3. **Выберите:** Sirius - (Astral/Glow/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
 
+>[EN]
 1. **Open the command palette (Ctrl + Shift + P).**
 2. **Enter:** Preferences: Color Theme.
 3. **Choose:** Sirius - (Astral/Glow/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
 
+
 Пример настройки в settings.json:
-An example of a setting in settings.json:
+>[EN] An example of a setting in settings.json:
 ```bash
 {
   "workbench.colorTheme": "Sirius - Astral"
 }
 ```
+---
 ## 📖 Лицензия (License)
 
 ### MIT
