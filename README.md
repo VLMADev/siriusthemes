@@ -1,16 +1,62 @@
-# siriusthemes README
+# 🌌 Sirius Theme for VS Code  
+> Тема оформления от **VLMADev** 
+> Design theme from **VLMADev**
 
-## Working with Markdown
+---
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 📌 Описание (Description)  
+**Sirius Theme** — это современная тема оформления для Visual Studio Code с акцентом на **минимализм, читаемость и стиль**. Поддерживает **тёмный режимы**, идеально подходит для разработчиков, которые ценят аккуратный интерфейс и комфорт при долгом кодировании.
+**Sirius Theme** is a modern Visual Studio Code theme with an emphasis on **minimalism, readability, and style**. Supports **Dark modes**, ideal for developers who appreciate a neat interface and comfort during long coding.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
 
-## For more information
+## 🌟 Особенности  (Features)
+- **Совместимость**: Поддерживает популярные языки (JavaScript, TypeScript, Python, HTML/CSS, JSON и др.).  
+- **Compatibility**: Supports popular languages (JavaScript, TypeScript, Python, HTML/CSS, JSON, etc.).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Цветовые акценты**: Сбалансированные палитры для синтаксиса, комментариев и ошибок.   
+- **Color Accents**: Balanced palettes for syntax, comments, and errors.
+---
 
-**Enjoy!**
+## 📦 Установка  (Installation)
+### Способ 1: Установка через Marketplace  (Method 1: Installation via the Marketplace)
+1. Откройте [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.sirius-theme).  
+2. Нажмите **"Install"**.  
+
+1. Open the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.sirius-theme ).  
+2. Press **"Install"**.
+
+### Способ 2: Установка .vsix файла  (Method 2: Installation .vsix file)
+Если вы скачали `.vsix` файл:
+If you downloaded the `.vsix` file:
+```bash
+code --install-extension sirius-theme-1.0.0.vsix
+```
+---
+## ⚙️ Настройки (Settings)
+
+### Чтобы изменить тему: (To change the theme:)
+
+1. **Откройте палитру команд (Ctrl + Shift + P).**
+2. **Введите:** Preferences: Color Theme.
+3. **Выберите:** Sirius - (Astral/Glow/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
+
+1. **Open the command palette (Ctrl + Shift + P).**
+2. **Enter:** Preferences: Color Theme.
+3. **Choose:** Sirius - (Astral/Glow/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
+
+Пример настройки в settings.json:
+An example of a setting in settings.json:
+```bash
+{
+  "workbench.colorTheme": "Sirius-Astral"
+}
+```
+## 📖 Лицензия (License)
+
+### MIT
+![License](https://img.shields.io/badge/license-MIT-blue.svg?x-oss-process=image/resize,m_mfit,w_320,h_320)
+
+## 📬 Контакт (Contact)
+**GitHub:** VLMADev
+**LinkedIn:** [vlm](https://www.linkedin.com/in/matveev-vladislav/)

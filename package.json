@@ -1,5 +1,5 @@
 {
-  "name": "siriusthemes",
+  "name": "Sirius Themes",
   "displayName": "Sirius Themes",
   "description": "Immerse yourself in the world of dark aesthetics with Sirius Themes for VS Code. Each theme offers a combination of deep shades and vibrant accents, which provides the perfect balance between style and readability.",
   "version": "1.0.0",
@@ -77,7 +77,7 @@
       }
     ],
     "configuration": {
-      "title": "SiriusThemes",
+      "title": "Sirius Themes",
       "properties": {
         "editor.fontFamily": {
           "type": "string",
