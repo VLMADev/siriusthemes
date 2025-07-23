@@ -1,6 +1,6 @@
 # 🌌 Sirius Theme for VS Code  
-> Тема оформления от **VLMADev** 
-> Design theme from **VLMADev**
+> - Тема оформления от **VLMADev** 
+> - Design theme from **VLMADev**
 
 ---
 
@@ -9,7 +9,7 @@
 - **Sirius Theme** — это современная тема оформления для Visual Studio Code с акцентом на **минимализм, читаемость и стиль**. Поддерживает **тёмный режимы**, идеально подходит для разработчиков, которые ценят аккуратный интерфейс и комфорт при долгом кодировании.
 
 >[EN]
-- **Sirius Theme** is a modern Visual Studio Code theme with an emphasis on **minimalism, readability, and style**. Supports **Dark modes**, ideal for developers who appreciate a neat interface and comfort during long coding.
+> - **Sirius Theme** is a modern Visual Studio Code theme with an emphasis on **minimalism, readability, and style**. Supports **Dark modes**, ideal for developers who appreciate a neat interface and comfort during long coding.
 
 
 ---
@@ -19,8 +19,8 @@
 - **Цветовые акценты**: Сбалансированные палитры для синтаксиса, комментариев и ошибок.   
 
 >[EN]
-- **Compatibility**: Supports popular languages (JavaScript, TypeScript, Python, HTML/CSS, JSON, etc.).
-- **Color Accents**: Balanced palettes for syntax, comments, and errors.
+> - **Compatibility**: Supports popular languages (JavaScript, TypeScript, Python, HTML/CSS, JSON, etc.).
+> - **Color Accents**: Balanced palettes for syntax, comments, and errors.
 
 
 ---
