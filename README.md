@@ -49,7 +49,7 @@ code --install-extension sirius-theme-1.0.0.vsix
 An example of a setting in settings.json:
 ```bash
 {
-  "workbench.colorTheme": "Sirius-Astral"
+  "workbench.colorTheme": "Sirius - Astral"
 }
 ```
 ## 📖 Лицензия (License)
