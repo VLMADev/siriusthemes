@@ -1,0 +1,91 @@
+{
+  "name": "dark-pro-no-blue",
+  "displayName": "Dark Pro No Blue",
+  "description": "Темная тема без синего цвета",
+  "version": "1.0.0",
+  "publisher": "VLMADev",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme","dark","one dark","monokai","no blue","javascript","php","python","html","css"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Pro Astral",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Astral.json"
+      },
+	   {
+        "label": "Dark Pro Pulsar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Pulsar.json"
+      },
+	   {
+        "label": "Dark Pro Vortex",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Vortex.json"
+      },
+	   {
+        "label": "Dark Pro Vibe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Vibe.json"
+      },
+	   {
+        "label": "Dark Pro Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Nebula.json"
+      },
+	   {
+        "label": "Dark Pro Zenith",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Zenith.json"
+      },
+	   {
+        "label": "Dark Pro Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Glow.json"
+      },
+	   {
+        "label": "Dark Pro Vesper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Pro-Vesper.json"
+      }  	  
+    ],    
+	"configuration": {
+      "title": "Dark Pro No Blue",
+      "properties": {
+        "editor.fontFamily": {
+          "type": "string",
+          "default": "'Fira Code', 'JetBrains Mono', monospace",
+          "description": "Рекомендуемый шрифт с лигатурами для темы"
+        },
+        "editor.fontLigatures": {
+          "type": "boolean",
+          "default": true,
+          "description": "Включить лигатуры для операторов -> => и других"
+        },
+        "editor.fontSize": {
+          "type": "integer",
+          "default": 14,
+          "description": "Рекомендуемый размер шрифта"
+        },
+        "editor.lineHeight": {
+          "type": "integer",
+          "default": 24,
+          "description": "Рекомендуемая высота строки"
+        }
+      }
+    },
+	
+  "activationEvents": ["onStartupFinished"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/dark-pro-no-blue "
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/dark-pro-no-blue/issues "
+  },
+  "homepage": "https://github.com/your-username/dark-pro-no-blue#readme"
+  }
+}
