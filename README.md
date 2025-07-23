@@ -30,8 +30,10 @@
 Если вы скачали `.vsix` файл:
 If you downloaded the `.vsix` file:
 ```bash
-code --install-extension sirius-theme-1.0.0.vsix
+code --install-extension sirius-theme-x.x.x.vsix
 ```
+- x.x.x. заменить на актуальную версию
+- x.x.x. replace with the current version
 ---
 ## ⚙️ Настройки (Settings)
 
