@@ -2,7 +2,7 @@
   "name": "siriusthemes",
   "displayName": "Sirius Themes",
   "description": "Immerse yourself in the world of dark aesthetics with Sirius Themes for VS Code. Each theme offers a combination of deep shades and vibrant accents, which provides the perfect balance between style and readability.",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "publisher": "VLMADev",
   "license": "MIT",
   "repository": {
@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/VLMADev/siriusthemes/blob/master/README.md",
   "engines": {
-    "vscode": "^1.102.0"
+    "vscode": "^1.46.0"
   },
   "categories": [
     "Themes"
