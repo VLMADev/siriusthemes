@@ -1,7 +1,9 @@
 # 🌌 Sirius Theme for VS Code  
 > - Тема оформления от **VLMADev** 
 > - [EN] Design theme from **VLMADev**
-> - Создано с ❤️ для разработчиков
+
+> - Создано с ❤️ для разработчиков 
+> - [EN] Created with ❤️ for developers
 
 
 ![Main](main.png)
