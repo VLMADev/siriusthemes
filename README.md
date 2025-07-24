@@ -2,8 +2,8 @@
 > - Тема оформления от **VLMADev** 
 > - [EN] Design theme from **VLMADev**
 
-> - Создано с ❤️ для разработчиков 
-> - [EN] Created with ❤️ for developers
+> - Создано с ❤️ для разработчиков. Не забудьте оценить тему — это мотивирует автора и помогает другим пользователям сделать выбор.
+> - [EN] Created with ❤️ for developers. Don't forget to rate the topic — it motivates the author and helps other users make a choice.
 
 
 ![Main](main.png)
