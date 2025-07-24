@@ -46,7 +46,7 @@
 
 
 ```bash
-code --install-extension sirius-theme-x.x.x.vsix
+code --install-extension siriustheme-x.x.x.vsix
 ```
 - x.x.x. заменить на актуальную версию
 > [EN] x.x.x. replace with the current version
