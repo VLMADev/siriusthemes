@@ -1,0 +1,29 @@
+/* Комментарий */
+body {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Псевдоклассы */
+a:hover {
+    color: #00ffff;
+    text-decoration: underline;
+}
+
+/* Анимация */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1px;
+    }
+}
+
+/* Переменные */
+:root {
+    --primary-color: #5d40ff;
+    --secondary-color: #ff4081;
+}

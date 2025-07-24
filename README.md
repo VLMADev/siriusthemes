@@ -1,6 +1,7 @@
 # 🌌 Sirius Theme for VS Code  
 > - Тема оформления от **VLMADev** 
->[EN] Design theme from **VLMADev**
+>[EN] - Design theme from **VLMADev**
+![Main](main.png)
 
 ---
 
@@ -21,7 +22,6 @@
 >[EN]
 > - **Compatibility**: Supports popular languages (JavaScript, TypeScript, Python, HTML/CSS, JSON, etc.).
 > - **Color Accents**: Balanced palettes for syntax, comments, and errors.
-
 
 ---
 
@@ -61,6 +61,18 @@ code --install-extension sirius-theme-x.x.x.vsix
 > 2. **Enter:** Preferences: Color Theme.
 > 3. **Choose:** Sirius - (Astral/Glow/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
 
+## Примеры (Examples)
+
+- ![Astral](screenshots/Astral/html+css+js+php.png)
+- ![Glow](screenshots/Glow/html+css+js+php.png)
+- ![Nebula](screenshots/Nebula/html+css+js+php.png)
+- ![Pulsar](screenshots/Pulsar/html+css+js+php.png)
+- ![Vibe](screenshots/Vibe/html+css+js+php.png)
+- ![Vortex](screenshots/Vortex/html+css+js+php.png)
+- ![Zenith](screenshots/Zenith/html+css+js+php.png)
+
+Вы можете найти скриншоты подсветки синтаксиса для определенного языка в папке screenshots, которая находится по следующему пути: screenshots/(название темы)..
+>[EN] You can find syntax highlighting screenshots for a specific language in the screenshots folder, which is located at the following path: screenshots/(name of the topic).
 
 Пример настройки в settings.json:
 >[EN] An example of a setting in settings.json:

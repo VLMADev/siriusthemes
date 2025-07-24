@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme name="Sirius" version="1.2" xmlns="http://vlmadev.com/theme">
+    <!-- === Комментарий === -->
+    <author>VLMADev</author>
+    <description>Тема оформления для VS Code</description>
+
+    <!-- === Свойства === -->
+    <properties>
+        <property name="background">#1e1e2f</property>
+        <property name="textColor">#ffffff</property>
+    </properties>
+
+    <!-- === Фичи === -->
+    <features>
+        <feature>Dark Mode</feature>
+        <feature>Light Mode</feature>
+        <feature>Syntax Highlighting</feature>
+    </features>
+
+    <!-- === CDATA секция === -->
+    <example>
+        <![CDATA[
+            function demo() {
+                console.log("Пример кода");
+            }
+        ]]>
+    </example>
+</theme>

@@ -1,0 +1,16 @@
+# Комментарий
+theme:
+  name: Sirius
+  version: 1.2
+  author: VLMADev
+
+features:
+  - Dark Mode
+  - Light Mode
+  - Syntax Highlighting
+
+settings:
+  background: "#1e1e2f"
+  textColor: "#ffffff"
+
+active: true

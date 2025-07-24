@@ -1,0 +1,15 @@
+{
+    "theme": "Sirius",
+    "author": "VLMADev",
+    "version": 1.2,
+    "features": [
+        "Dark Mode",
+        "Light Mode",
+        "Syntax Highlighting"
+    ],
+    "settings": {
+        "background": "#1e1e2f",
+        "textColor": "#ffffff"
+    },
+    "active": true
+}
