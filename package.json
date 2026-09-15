@@ -1,115 +1,143 @@
 {
-  "name": "siriusthemes",
-  "displayName": "Sirius Themes",
-  "description": "Immerse yourself in the world of dark aesthetics with Sirius Themes for VS Code. Each theme offers a combination of deep shades and vibrant accents, which provides the perfect balance between style and readability.",
-  "version": "1.1.5",
-  "publisher": "VLMADev",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VLMADev/siriusthemes"
-  },
-  "homepage": "https://github.com/VLMADev/siriusthemes/blob/master/README.md",
-  "engines": {
-    "vscode": "^1.46.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "Sirius.png",
-  "keywords": [
-    "theme",
-    "dark",
-    "one dark",
-    "monokai",
-    "no blue",
-    "javascript",
-    "php",
-    "python",
-    "html",
-    "css",
-    "js",
-    "json",
-    "phtml",
-    "popular",
-    "c++",
-    "go",
-    "groovy",
-    "hlsl",
-    "java",
-    "rust",
-    "sql",
-    "TypeScript",
-    "xml",
-    "yaml"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Sirius - Astral",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Astral.json"
-      },
-      {
-        "label": "Sirius - Pulsar",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Pulsar.json"
-      },
-      {
-        "label": "Sirius - Vortex",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Vortex.json"
-      },
-      {
-        "label": "Sirius - Vibe",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Vibe.json"
-      },
-      {
-        "label": "Sirius - Nebula",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Nebula.json"
-      },
-      {
-        "label": "Sirius - Zenith",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Zenith.json"
-      },
-      {
-        "label": "Sirius - Glow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Glow.json"
-      },
-      {
-        "label": "Sirius - Vesper",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sirius-Vesper.json"
-      }
-    ],
-    "configuration": {
-      "title": "SiriusThemes",
-      "properties": {
-        "editor.fontFamily": {
-          "type": "string",
-          "default": "'Fira Code', 'JetBrains Mono', monospace",
-          "description": "Recommended font with ligatures for the theme"
-        },
-        "editor.fontLigatures": {
-          "type": "boolean",
-          "default": true,
-          "description": "Enter abbreviations for the operators -> and => and others."
-        },
-        "editor.fontSize": {
-          "type": "integer",
-          "default": 14,
-          "description": "Recommended font size"
-        },
-        "editor.lineHeight": {
-          "type": "integer",
-          "default": 24,
-          "description": "Recommended row height"
-        }
-      }
-    }
-  }
+	"name": "siriusthemes",
+	"displayName": "Sirius Themes",
+	"description": "Immerse yourself in the world of dark aesthetics with Sirius Themes for VS Code. Each theme offers a combination of deep shades and vibrant accents, which provides the perfect balance between style and readability.",
+	"version": "1.2.0",
+	"publisher": "VLMADev",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VLMADev/siriusthemes"
+	},
+	"homepage": "https://github.com/VLMADev/siriusthemes/blob/master/README.md",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "Sirius.png",
+	"keywords": [
+		"theme",
+		"dark",
+		"one dark",
+		"monokai",
+		"no blue",
+		"javascript",
+		"php",
+		"python",
+		"html",
+		"css",
+		"js",
+		"json",
+		"phtml",
+		"popular",
+		"c++",
+		"go",
+		"groovy",
+		"hlsl",
+		"java",
+		"rust",
+		"sql",
+		"TypeScript",
+		"xml",
+		"yaml"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sirius - Andromeda",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Andromeda.json"
+			},
+			{
+				"label": "Sirius - Astral",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Astral.json"
+			},
+			{
+				"label": "Sirius - Ember",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Ember.json"
+			},
+			{
+				"label": "Sirius - Pulsar",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Pulsar.json"
+			},
+			{
+				"label": "Sirius - Vortex",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Vortex.json"
+			},
+			{
+				"label": "Sirius - Vibe",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Vibe.json"
+			},{
+				"label": "Sirius - Haziness",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Haziness.json"
+			},
+			{
+				"label": "Sirius - Nebula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Nebula.json"
+			},
+			{
+				"label": "Sirius - Zenith",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Zenith.json"
+			},
+			{
+				"label": "Sirius - Glow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Glow.json"
+			},
+			{
+				"label": "Sirius - Vesper",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sirius-Vesper.json"
+			}
+		],
+		"configuration": {
+			"title": "SiriusThemes",
+			"properties": {
+				"editor.fontFamily": {
+					"type": "string",
+					"default": "'Fira Code', 'JetBrains Mono', monospace",
+					"description": "Recommended font with ligatures for the theme"
+				},
+				"editor.fontLigatures": {
+					"type": "boolean",
+					"default": true,
+					"description": "Enter abbreviations for the operators -> and => and others."
+				},
+				"editor.fontSize": {
+					"type": "integer",
+					"default": 14,
+					"description": "Recommended font size"
+				},
+				"editor.lineHeight": {
+					"type": "integer",
+					"default": 24,
+					"description": "Recommended row height"
+				}
+			}
+		}
+	},
+	"__metadata": {
+		"id": "0fc391d4-3f90-46da-b8b9-66226bc9ad33",
+		"publisherId": "c4a6667e-9872-4e47-9bd2-e181d7962b30",
+		"publisherDisplayName": "VLMADev",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1753361166772,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 31938393
+	}
 }
