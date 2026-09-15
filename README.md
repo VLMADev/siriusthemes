@@ -6,7 +6,7 @@
 > - [EN] Created with ❤️ for developers. Don't forget to rate the topic — it motivates the author and helps other users make a choice.
 
 
-![Main](main.png)
+![Main](https://github.com/VLMADev/siriusthemes/raw/HEAD/main.png)
 
 ---
 
@@ -32,11 +32,11 @@
 
 ## 📦 Установка  (Installation)
 ### Способ 1: Установка через Marketplace  (Method 1: Installation via the Marketplace)
-1. Откройте [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.sirius-theme).  
+1. Откройте [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.siriusthemes).  
 2. Нажмите **"Install"**.  
 
 >[EN]
-> 1. Open the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.sirius-theme ).  
+> 1. Open the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VLMADev.siriusthemes).  
 > 2. Press **"Install"**.
 
 
@@ -59,22 +59,25 @@ code --install-extension siriustheme-x.x.x.vsix
 
 1. **Откройте палитру команд (Ctrl + Shift + P).**
 2. **Введите:** Preferences: Color Theme.
-3. **Выберите:** Sirius - (Astral/Glow/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
+3. **Выберите:** Sirius - (Andromeda/Astral/Ember/Glow/Haziness/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
 
 >[EN]
 > 1. **Open the command palette (Ctrl + Shift + P).**
 > 2. **Enter:** Preferences: Color Theme.
-> 3. **Choose:** Sirius - (Astral/Glow/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
+> 3. **Choose:** Sirius - (Andromeda/Astral/Ember/Glow/Haziness/Nebula/Pulsar/Vesper/Vibe/Vortex/Zenith).
 
 ## Примеры (Examples)
 
-- ![Astral](screenshots/Astral/html+css+js+php.png)
-- ![Glow](screenshots/Glow/html+css+js+php.png)
-- ![Nebula](screenshots/Nebula/html+css+js+php.png)
-- ![Pulsar](screenshots/Pulsar/html+css+js+php.png)
-- ![Vibe](screenshots/Vibe/html+css+js+php.png)
-- ![Vortex](screenshots/Vortex/html+css+js+php.png)
-- ![Zenith](screenshots/Zenith/html+css+js+php.png)
+- ![Andromeda](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Andromeda/html+css+js+php.png)
+- ![Astral](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Astral/html+css+js+php.png)
+- ![Ember](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Ember/html+css+js+php.png)
+- ![Glow](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Glow/html+css+js+php.png)
+- ![Haziness](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Haziness/html+css+js+php.png)
+- ![Nebula](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Nebula/html+css+js+php.png)
+- ![Pulsar](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Pulsar/html+css+js+php.png)
+- ![Vibe](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Vibe/html+css+js+php.png)
+- ![Vortex](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Vortex/html+css+js+php.png)
+- ![Zenith](https://github.com/VLMADev/siriusthemes/raw/HEAD/screenshots/Zenith/html+css+js+php.png)
 
 Вы можете найти скриншоты подсветки синтаксиса для определенного языка в папке screenshots, которая находится по следующему пути: screenshots/(название темы)..
 >[EN] You can find syntax highlighting screenshots for a specific language in the screenshots folder, which is located at the following path: screenshots/(name of the topic).
